@@ -2,7 +2,7 @@
 Fix Bug NuhaSCR
 
 
-UPDATE 09-April-2019
+UPDATE 10-Agustus-2019
 <b><li>Spam Call Unlimited</b>
 <li>$ pkg update && pkg upgrade
 <li>$ pkg install php
